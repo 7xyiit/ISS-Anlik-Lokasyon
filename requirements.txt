@@ -1,2 +1,4 @@
-pandas==1.5.1
-plotly==5.11.0
+#İndirilmesi gereken kütüphaneler
+pip install jsonlib
+pip install turtle
+pip install urllib3
