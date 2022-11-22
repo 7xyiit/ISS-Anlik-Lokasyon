@@ -2,6 +2,7 @@ import pandas as pd
 import plotly.express as px
 import time
 
+#Veriler
 json_info = 'http://api.open-notify.org/iss-now.json'
 
 def ISSizleyici():
