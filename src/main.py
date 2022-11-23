@@ -1,13 +1,7 @@
 import json  
 import turtle
 import urllib.request 
-import time  
-
-
-#JSON Verileri
-adres = 'http://api.open-notify.org/iss-now.json'
-adres_json = urllib.request.urlopen(adres)
-adres_json2 = json.loads(adres_json.read())
+import time
 
 #Turtle kütüphanesi ile dünya enlem-boylam oluşturma. Ayrıca büyüklük ayarlama.
 ekran = turtle.Screen()
