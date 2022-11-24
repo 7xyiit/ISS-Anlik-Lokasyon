@@ -1,6 +1,6 @@
 import json  
 import turtle
-import urllib.request 
+import urllib.request
 import time
 
 #Turtle kütüphanesi ile dünya enlem-boylam oluşturma. Ayrıca büyüklük ayarlama.
